@@ -7,5 +7,15 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'angularWithModule';
+// city="hydarabad";
+// updatecity(){
+//   this.city="banglor";
+//   this.city="ap "
+
+
+// }
+  nums =[1,2,3,4,5,6,7,8,9,10]
+    showhead=true;
+
+movies =['rrr','pushpa','salaar']
 }
